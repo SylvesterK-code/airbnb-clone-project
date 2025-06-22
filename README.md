@@ -35,7 +35,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Secondary Text: Circular, Book (400), 14px
   
 #### Importance of identifying design properties of a mock up design.
-### Identifying design properties of a mockup helps ensure:
+##### Identifying design properties of a mockup helps ensure:
 
 - Visual clarity
 - Consistent branding
