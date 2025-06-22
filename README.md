@@ -42,4 +42,22 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Efficient development
 - Responsive behavior
 - Better user experience
-- It bridges the gap between design vision and functional product.
+- It bridges the gap between design vision and functional product
+
+# Project Roles and Responsibilities
+
+This document outlines the key roles involved in the project and their respective responsibilities.
+
+## Roles and Responsibilities
+
+| **Role**             | **Responsibilities**                                                                 |
+|----------------------|---------------------------------------------------------------------------------------|
+| **Project Manager**  | Oversees timeline, coordinates team, manages deliverables                            |
+| **Frontend Developers** | Implements UI components, ensures responsive design                                 |
+| **Backend Developers**  | Builds APIs, manages database, implements business logic                           |
+| **Designers**        | Creates mockups, maintains design system, ensures UX quality                         |
+| **QA/Testers**       | Writes test cases, performs testing, reports bugs                                    |
+| **DevOps Engineers** | Manages deployment, CI/CD pipeline, server infrastructure                            |
+| **Product Owner**    | Defines requirements, prioritizes features, represents stakeholders                  |
+| **Scrum Master**     | Facilitates agile processes, removes blockers, organizes meetings                    |
+
